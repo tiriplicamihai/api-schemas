@@ -1,6 +1,3 @@
-<!-- Apigee WADL for the Pardot API -->
-<!-- Please see http://developer.pardot.com for more information -->
- 
 <application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
   xmlns:xsd="http://www.w3.org/2001/XMLSchema"
   xmlns:apigee="http://api.apigee.com/wadl/2010/07/" 
